@@ -2,7 +2,7 @@
 
 > Predict tomorrow’s sales today — and never overstock again.
 
-![Dashboard Screenshot]([./dashboard.png](https://github.com/user-attachments/assets/476b297d-fe57-45e7-8877-852998654714)) <!-- Replace with actual path if image included -->
+![Dashboard Screenshot]((https://github.com/user-attachments/assets/476b297d-fe57-45e7-8877-852998654714)) <!-- Replace with actual path if image included -->
 
 ## 🚀 Project Overview
 
