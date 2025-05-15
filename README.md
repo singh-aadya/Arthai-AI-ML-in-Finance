@@ -1,6 +1,11 @@
 # 📈 Sales Forecasting with AI-Powered Insights
-
 > Predict tomorrow’s sales today — and never overstock again.
+
+> Team Members:
+Aadya Singh
+Arya Patekhede
+Srushti Bartakke
+
 
 ![Dashboard Screenshot](/dashboard.png) 
 
@@ -48,27 +53,6 @@ Retail businesses often struggle with:
 - 📉 Handled missing/null values
 - 📏 Normalized numerical data (MinMaxScaler)
 - 📅 Time-based train-test split to preserve sequence
-
----
-
-## 🧮 Model Architecture
-
-- Base Models:
-  - Linear Regression
-  - XGBoost Regressor
-  - Random Forest Regressor
-- (Optional) LSTM for advanced time-series modeling
-- Model selection based on RMSE and R² scores
-
----
-
-## 📊 Performance Metrics
-
-| Model              | RMSE     | MAE      | R² Score |
-|-------------------|----------|----------|----------|
-| Linear Regression | 168.45   | 120.22   | 0.78     |
-| XGBoost           | 112.34   | 85.91    | 0.86     |
-| LSTM              | 104.12   | 80.10    | 0.89     |
 
 ---
 
